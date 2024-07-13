@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,UAAU,SAAS,aAAa,CAAC;AACvC,IAAI;AACJ,QAAQ,WAAW,GAAG","sources":["src/script.js"],"sourcesContent":["const heading = document.querySelector(\"h1\")\nlet number;\nheading.textContent = \"Hello, World With Parcel!\""],"names":[],"version":3,"file":"index.44983732.js.map","sourceRoot":"/__parcel_source_root/"}
