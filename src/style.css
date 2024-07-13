@@ -3,9 +3,28 @@
     padding: 0;
 }
 
-h1{
+p{
     display: flex;
     align-items: center;
     color: red;
     font-size: large;
+}
+#increase{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: green;
+}
+
+#decrease{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: red;
 }
